@@ -11,6 +11,7 @@ function Navbar() {
         <Link href="/"><a>Home</a></Link>
         <Link href="/about"><a>About</a></Link>
         <Link href="/blogs"><a>Blog Listing</a></Link>
+        <Link href="/rfcs"><a>Rfc Listing</a></Link>
     </nav>
   )
 }

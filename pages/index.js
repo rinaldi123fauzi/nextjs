@@ -19,6 +19,9 @@ export default function Home() {
       <Link href="/blogs">
         <a className={styles.btn}>See Blogs Listing</a>
       </Link>
+      <Link href="/rfcs">
+        <a className={styles.btn}>See Rfcs Listing</a>
+      </Link>
     </div>
   )
 }
